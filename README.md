@@ -25,6 +25,7 @@ Here are other awesome tools you might find useful:
 
 | Tool Name | Description | Link |
 |----------|-------------|------|
+| ClearCrowds | AI photo cleanup editor for removing crowds, unwanted objects, clutter, and other distractions | [Visit Site](https://clearcrowds.com/) |
 | MediaAI.art | AI image style transfer, face swap and more | [Visit Site](https://www.mediaai.art) |
 | Remove.bg | Background remover | https://www.remove.bg |
 | DALL·E 3 | Text-to-image generation by OpenAI | https://openai.com/dall-e |

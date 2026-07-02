@@ -26,6 +26,7 @@ Here are other awesome tools you might find useful:
 | Tool Name | Description | Link |
 |----------|-------------|------|
 | MediaAI.art | AI image style transfer, face swap and more | [Visit Site](https://www.mediaai.art) |
+| HairWow | AI hairstyle try-on for previewing haircuts, colors, bangs, and beard styles on your own photo | https://www.gohairwow.com |
 | Remove.bg | Background remover | https://www.remove.bg |
 | DALL·E 3 | Text-to-image generation by OpenAI | https://openai.com/dall-e |
 | RunwayML | AI video editing tools | https://runwayml.com |
@@ -50,4 +51,3 @@ If you find this useful, ⭐️ star the repo and share it!
 
 - [Try MediaAI.art now](https://www.mediaai.art)
 - [Follow us on Instagram](https://www.instagram.com/mediaai.art)
-

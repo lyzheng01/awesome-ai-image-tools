@@ -26,6 +26,7 @@ Here are other awesome tools you might find useful:
 | Tool Name | Description | Link |
 |----------|-------------|------|
 | MediaAI.art | AI image style transfer, face swap and more | [Visit Site](https://www.mediaai.art) |
+| Raphael AI | Free photo-to-painting AI (oil, watercolor, anime) with multi-model routing | https://raphael.app |
 | Remove.bg | Background remover | https://www.remove.bg |
 | DALL·E 3 | Text-to-image generation by OpenAI | https://openai.com/dall-e |
 | RunwayML | AI video editing tools | https://runwayml.com |
